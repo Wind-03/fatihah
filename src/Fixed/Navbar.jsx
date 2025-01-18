@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Logo from '../assets/logo.png'
+import Logo from './assets/logo.png'
 
 import { RiMenu3Fill } from "react-icons/ri";
 import { RiCloseFill } from "react-icons/ri";
