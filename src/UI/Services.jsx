@@ -267,7 +267,7 @@ export default function Services() {
         </div>
       </div>
       <div className='flex flex-col gap-6 md:gap-10 lg:hidden bg-accent rounded-2xl py-8 px-8 md:py-10'>
-        <h2 className='text-2xl font-bold md:text-3xl'>Let's make things happen</h2>
+        <h2 className='text-2xl font-bold md:text-3xl'>Lets make things happen</h2>
         <p className='text-lg leading-tight  tracking-wider md:text-xl'>Contact us today to learn more about how our digital marketing services can help your business grow and succeed online.</p>
         <button type="button" className=' w-full rounded-xl bg-secondary text-accent text-lg md:text-xl md:py-4 font-medium cursor-pointer py-3'>Get your free Proposal</button>
       </div>

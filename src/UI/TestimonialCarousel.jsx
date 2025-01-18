@@ -88,7 +88,7 @@ export default function TestimonialCarousel() {
     after:border-r-transparent
     ${index === currentIndex ? 'scale-100 ' : 'scale-95 '}
   `}>
-    <p className="text-accent mb-4 text-md leading-relaxed tracking-normal">"{testimonial.text}"</p>
+    <p className="text-accent mb-4 text-md leading-relaxed tracking-normal">`${testimonial.text}`</p>
    
   </div>
   <div className=" pt-4 mt-4 ml-5 pl-5">

@@ -81,7 +81,7 @@ export default function Contact() {
     <h1 className="font-bold text-xl ">
         <span className="bg-primary box-decoration-clone text-center px-1 rounded-md">Contact Us</span>
       </h1>
-        <p className='text-md leading-normal tracking-wide lg:w-[60%]'>Connect with Us: Let's Discuss Your Digital Marketing Needs</p>
+        <p className='text-md leading-normal tracking-wide lg:w-[60%]'>Connect with Us: Lets Discuss Your Digital Marketing Needs</p>
     </header>
 
     <section className=' mt-10  '>
