@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import MaskGroup from '../assets/Mask Group.png'
+import MaskGroup from '../../public/assets/Mask Group.png'
 
 export default function Contact() {
     const [formData, setFormData] = useState({

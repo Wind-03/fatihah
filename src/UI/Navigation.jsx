@@ -1,4 +1,4 @@
-import illustration from './assets/illustration.png'
+import illustration from '../../public/assets/illustration.png'
 
 export default function Navigation() {
   return (

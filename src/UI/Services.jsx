@@ -1,13 +1,13 @@
 import {useState} from 'react'   
 import { BsFillArrowUpRightCircleFill } from "react-icons/bs";
 import { BsFillArrowDownLeftCircleFill } from "react-icons/bs";
-import first from '../assets/tokyo-browser-window-with-emoticon-likes-and-stars-around 2.png';
-import second from '../assets/tokyo-magnifier-web-search-with-elements 2.png'
-import third from '../assets/tokyo-selecting-a-value-in-the-browser-window 1.png'
-import fourth from '../assets/tokyo-sending-messages-from-one-place-to-another 1.png'
-import fifth from '../assets/ame.png'
-import sixth from '../assets/tkyp.png'
-import seventh from '../assets/tokyo-extra.png'
+import first from '../../public/assets/tokyo-browser-window-with-emoticon-likes-and-stars-around 2.png';
+import second from '../../public/assets/tokyo-magnifier-web-search-with-elements 2.png'
+import third from '../../public/assets/tokyo-selecting-a-value-in-the-browser-window 1.png'
+import fourth from '../../public/assets/tokyo-sending-messages-from-one-place-to-another 1.png'
+import fifth from '../../public/assets/ame.png'
+import sixth from '../../public/assets/tkyp.png'
+import seventh from '../../public/assets/tokyo-extra.png'
 
 export default function Services() {
 
