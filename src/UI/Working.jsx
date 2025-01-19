@@ -40,7 +40,7 @@ export default function Working() {
                                 </button>
                             </div>
                             {expandedProcess === item.id && (
-                                <div className="process-content border-t-2 border-secondary p-4 text-md">
+                                <div className="process-content border-t-2 border-secondary p-4 text-md duration-500 ease-in-out">
                                     {item.description}
                                 </div>
                             )}
