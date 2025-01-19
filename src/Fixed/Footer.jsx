@@ -1,5 +1,5 @@
 import Logo from "../../public/assets/footerlogo.png";
-import twitter from "../../public/assets/twitter.png";
+import twitter from "../../public/assets/Twitter.png";
 import facebook from "../../public/assets/facebook.png";
 import footerlink from "../../public/assets/footerlink.png";
 // import footerlink from 'assets/footerlink.png'
