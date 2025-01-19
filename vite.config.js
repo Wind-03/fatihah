@@ -13,7 +13,7 @@ export default defineConfig({
   },
   resolve: {
     alias: {
-      '@assets': '/Public/assets'
+      '@assets': '/public/assets'
     }
   }
 })

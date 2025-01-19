@@ -1,7 +1,7 @@
-import Logo from "../../Public/assets/footerlogo.png";
-import twitter from "../../Public/assets/twitter.png";
-import facebook from "../../Public/assets/facebook.png";
-import footerlink from "../../Public/assets/footerlink.png";
+import Logo from "../../public/assets/footerlogo.png";
+import twitter from "../../public/assets/twitter.png";
+import facebook from "../../public/assets/facebook.png";
+import footerlink from "../../public/assets/footerlink.png";
 // import footerlink from 'assets/footerlink.png'
 import { menuItems } from "../Utils/data";
 import { useState } from "react";
